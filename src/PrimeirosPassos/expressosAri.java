@@ -21,8 +21,12 @@ public class expressosAri {
         int  code = 77888;
         char genero = 'M';
         double price1 = 2100.0;
+
+
+
+
         double price2 = 650.50;
-        Locale defaultLocale = Locale.US;
+      Locale defaultLocale = Locale.US;
         double measure = 53.234567;
 
 
