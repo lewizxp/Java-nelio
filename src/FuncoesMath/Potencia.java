@@ -1,8 +1,6 @@
 package FuncoesMath;
 import java.util.Scanner;
 
-public class
-Potencia {
     public static void main (String [] args){
 
         Scanner sc =new Scanner(System.in);
@@ -11,7 +9,6 @@ Potencia {
         double base;
         base = sc.nextDouble();
         sc.nextLine();
-
 
         System.out.println("Digite um expoente");
         double expoente;
