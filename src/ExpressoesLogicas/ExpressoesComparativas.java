@@ -2,7 +2,7 @@ package ExpressoesLogicas;
 
 import java.util.Scanner;
 
-java.util.Scanner;
+
 
 public class ExpressoesComparativas {
     public static void main(String[] args) {
