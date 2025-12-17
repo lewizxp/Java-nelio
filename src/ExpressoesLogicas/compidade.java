@@ -10,12 +10,12 @@ public class compidade {
         System.out.println("Sua idade é " +idade);
 
         if(idade >= 20){
-            System.out.println("você é maior de 20 anos ");
+            System.out.println("Você é mais velho  ");
 
-        } else if (idade <= 15) {
+        } else if (idade <= 20) {
             System.out.println("Você é um adoslecente ");
 
-        } else if (idade <=  0){
+        } else if (idade < 0){
             System.out.println("Você não existe " );
         }
     }
